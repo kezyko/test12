@@ -28,7 +28,7 @@
     <div class="container">
         <h1>🚀 UAP CI/CD Project</h1>
         <p>Deployment berhasil!</p>
-        <div class="version">Version: 1.0.3 - Auto Deploy Test - Auto Deploy Test - Auto Deploy Test</div>
+        <div class="version">Version: 1.0.4 - Auto Deploy Test - Auto Deploy Test - Auto Deploy Test - Auto Deploy Test</div>
         <div class="timestamp">
             <?php echo "Last updated: " . date('Y-m-d H:i:s'); ?>
         </div>
